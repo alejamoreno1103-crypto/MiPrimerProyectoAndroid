@@ -1,0 +1,18 @@
+MiPrimerProyectoAndroid/
+├─ res/
+│  ├─ drawable/
+│  │   └─ imagen_fondo.9.png        (tu Nine-Patch)
+│  ├─ values/                       (Español - default)
+│  │   └─ strings.xml
+│  ├─ values-en/                    (Inglés)
+│  │   └─ strings.xml
+│  ├─ values-fr/                    (Francés)
+│  │   └─ strings.xml
+│  └─ values-de/                    (Alemán)
+│       └─ strings.xml
+├─ app/
+│  └─ src/main/java/com/tuusuario/hola/
+│       └─ MainActivity.java
+├─ app/src/main/AndroidManifest.xml
+└─ app/build.gradle
+
